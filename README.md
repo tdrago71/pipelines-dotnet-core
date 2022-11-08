@@ -1,3 +1,4 @@
+[![Build Status](https://tdrago71-hotmail.visualstudio.com/PipeLineDemo/_apis/build/status/tdrago71.pipelines-dotnet-core?branchName=master)](https://tdrago71-hotmail.visualstudio.com/PipeLineDemo/_build/latest?definitionId=2&branchName=master)
 # Sample ASP.NET Core application for Azure Pipelines docs
 
 For information on how to set up a pipeline for this repository, see [Create your first pipeline](https://docs.microsoft.com/azure/devops/pipelines/get-started-yaml?view=azure-devops).
